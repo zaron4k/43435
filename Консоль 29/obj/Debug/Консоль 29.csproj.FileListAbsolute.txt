@@ -1,0 +1,2 @@
+D:\215\Консоль 29\obj\Debug\Консоль 29.csproj.AssemblyReference.cache
+D:\215\Консоль 29\obj\Debug\Консоль 29.csproj.CoreCompileInputs.cache
